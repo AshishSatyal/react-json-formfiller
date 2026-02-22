@@ -34,6 +34,14 @@
     "README.md",
     "LICENSE"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AshishSatyal/react-json-formfiller"
+  },
+  "homepage": "https://github.com/AshishSatyal/react-json-formfiller/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/AshishSatyal/react-json-formfiller/issues"
+  },
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
